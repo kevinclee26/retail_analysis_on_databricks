@@ -1,6 +1,9 @@
 # retail_analysis_on_databricks
 
 # Technology Used
+![databricks](https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/Databricks_Logo.png?raw=true)
+![Apache Spark](https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/Apache_Spark_logo.png?raw=true)
+<img src='https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/Apache_Spark_logo.png?raw=true' height='100px'>
 This project is developed with (databricks)[https://databricks.com/] and (Apache Spark)[https://spark.apache.org/]
 
 # Data Attribution
